@@ -6,12 +6,24 @@
   "policyDocumentsUploaded": false,
   "activeDeploymentWorkflowIncluded": false,
   "expectedFutureFiles": [
-    "privacy.es.html",
-    "privacy.en.html"
+    ".nojekyll",
+    "index.html",
+    "privacy.en.html",
+    "privacy.es.html"
   ],
   "proposedUrls": {
     "es": "https://amonterocabrera.github.io/rigelia-privacy/privacy.es.html",
     "en": "https://amonterocabrera.github.io/rigelia-privacy/privacy.en.html"
   },
-  "futureActivationRequiresSeparateAuthorization": true
+  "futureActivationRequiresSeparateAuthorization": true,
+  "localDraftPackagePrepared": true,
+  "indexIsExactSpanishCopy": true,
+  "preparedContentRemainsDraft": true,
+  "archiveIsGitHubActionsPagesArtifact": false,
+  "draftSiteFileSha256": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "index.html": "b6087ab360a2ae9dd737684fa819182528d7735b16be4eee5e2c2b3d1788b2df",
+    "privacy.en.html": "52d5972b5164d48d3850c18d8a05c695219ff9353fe5fa78bf201a49ab95e9e6",
+    "privacy.es.html": "b6087ab360a2ae9dd737684fa819182528d7735b16be4eee5e2c2b3d1788b2df"
+  }
 }
