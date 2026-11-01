@@ -13,7 +13,7 @@ preparation/pages-plan.json es documentación, no una configuración consumida p
 
 ## Estructura prevista para la publicación futura
 
-Tras cerrar los pendientes y obtener autorización separada, colocar en la raíz únicamente los documentos finales privacy.es.html y privacy.en.html, con enlaces de idioma relativos que funcionen entre sí. La URL de cada política usará su nombre de archivo; no se presupone una página de inicio nueva.
+Tras cerrar los pendientes y obtener autorización separada, la fuente estática tendrá exactamente cuatro archivos: index.html, privacy.es.html, privacy.en.html y .nojekyll. index.html será una copia del español aprobado; los enlaces ES/EN seguirán siendo relativos. .nojekyll evita transformar los HTML con Jekyll. La preparación local conserva las marcas de borrador y no es una publicación. El ZIP local es de revisión/transporte, no el artefacto tar de deploy-pages. No se suben ahora HTML o ZIP al repositorio público.
 
 URLs previstas, no verificadas ni activadas:
 
