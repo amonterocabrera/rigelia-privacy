@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "mode": "preparation-only",
+  "pagesMustRemainDisabled": true,
+  "publicationAuthorized": false,
+  "policyDocumentsUploaded": false,
+  "activeDeploymentWorkflowIncluded": false,
+  "expectedFutureFiles": [
+    "privacy.es.html",
+    "privacy.en.html"
+  ],
+  "proposedUrls": {
+    "es": "https://amonterocabrera.github.io/rigelia-privacy/privacy.es.html",
+    "en": "https://amonterocabrera.github.io/rigelia-privacy/privacy.en.html"
+  },
+  "futureActivationRequiresSeparateAuthorization": true
+}
